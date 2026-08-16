@@ -1,7 +1,7 @@
 # Yohan Song
 
 Mathematician · MSc student at the University of Toronto  
-Combinatorics, optimization, and machine learning
+Algebraic Combinatorics, Measure Theory and Probability, Quantum Mechanics
 
 [Email](mailto:y343song@gmail.com) · [Website](https://yohan-song.netlify.app) · [GitHub](https://github.com/homeomorphic-torus)
 
@@ -11,7 +11,7 @@ Combinatorics, optimization, and machine learning
 
 Young mathematician with a strong foundation in combinatorics and optimization, and research experience at the intersection of discrete math and machine learning.
 
-I completed a BMath in Combinatorics and Optimization (Pure Mathematics) with a Physics minor at the University of Waterloo, and I am now pursuing an MSc in Mathematics at the University of Toronto.
+I completed a BMath in Combinatorics & Optimization and Pure Mathematics with a Physics minor at the University of Waterloo, and I am now pursuing an MSc in Mathematics at the University of Toronto.
 
 ---
 
